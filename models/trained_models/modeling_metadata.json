@@ -1,0 +1,15 @@
+{
+    "data_path": "data/processed/data_transformada.csv",
+    "random_state": 42,
+    "test_size": 0.2,
+    "target_clasificacion": "abandono",
+    "target_regresion": "gasto_mensual",
+    "classification_train_indices": "results/splits/classification_train_indices.csv",
+    "classification_test_indices": "results/splits/classification_test_indices.csv",
+    "regression_train_indices": "results/splits/regression_train_indices.csv",
+    "regression_test_indices": "results/splits/regression_test_indices.csv",
+    "classification_metrics": "results/metrics/classification_base_metrics.csv",
+    "regression_metrics": "results/metrics/regression_base_metrics.csv",
+    "classification_label_mapping": "results/metrics/classification_label_mapping.csv",
+    "trained_models_manifest": "models/trained_models/trained_models_manifest.csv"
+}

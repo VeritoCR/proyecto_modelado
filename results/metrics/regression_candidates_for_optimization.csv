@@ -1,0 +1,3 @@
+modelo,mae,rmse,r2,rol,justificacion
+Linear Regression,0.8161983364147996,1.006340610693606,-0.0018829388534249425,baseline,Se mantiene como baseline; no requiere optimización fuerte en esta configuración.
+Decision Tree Regressor,1.1520617747932396,1.4263393030863953,-1.0126705044877835,candidato_optimizable,Candidato optimizable; requiere control de complejidad por su bajo rendimiento base.

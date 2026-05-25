@@ -1,0 +1,6 @@
+tipo_modelo,modelo,ruta_modelo,target
+classification,Logistic Regression,models/trained_models/classification_logistic_regression_pipeline.pkl,abandono
+classification,Decision Tree Classifier,models/trained_models/classification_decision_tree_classifier_pipeline.pkl,abandono
+classification,SVM,models/trained_models/classification_svm_pipeline.pkl,abandono
+regression,Linear Regression,models/trained_models/regression_linear_regression_pipeline.pkl,gasto_mensual
+regression,Decision Tree Regressor,models/trained_models/regression_decision_tree_regressor_pipeline.pkl,gasto_mensual

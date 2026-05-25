@@ -1,0 +1,4 @@
+modelo,accuracy,precision,recall,f1_score,roc_auc,prioridad,rol,justificacion
+Logistic Regression,0.655,0.6042296072507553,0.3780718336483932,0.46511627906976744,0.6882202603989992,1,candidato_principal,"Mejor equilibrio general en la comparación base entre accuracy, f1_score y roc_auc."
+Decision Tree Classifier,0.55875,0.4472123368920522,0.4751102709514808,0.46073938282920873,0.5444345387082311,2,candidato_principal,"Mayor recall, pero con alto número de falsos positivos; requiere control de complejidad."
+SVM,0.6445,0.6022304832713755,0.30623818525519847,0.406015037593985,0.6569558245076097,3,candidato_opcional,ROC-AUC aceptable y comportamiento conservador; optimización sujeta a costo computacional.

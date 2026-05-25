@@ -1,0 +1,5 @@
+modelo,version,tn,fp,fn,tp
+Logistic Regression,base,2020,393,987,600
+Logistic Regression,optimizado,1539,874,573,1014
+Decision Tree Classifier,base,1481,932,833,754
+Decision Tree Classifier,optimizado,1480,933,547,1040

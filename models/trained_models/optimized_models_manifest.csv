@@ -1,0 +1,4 @@
+tipo_modelo,modelo,ruta_modelo
+classification,Logistic Regression,models/trained_models/optimized_classification_logistic_regression_pipeline.pkl
+classification,Decision Tree Classifier,models/trained_models/optimized_classification_decision_tree_classifier_pipeline.pkl
+regression,Decision Tree Regressor,models/trained_models/optimized_regression_decision_tree_regressor_pipeline.pkl
